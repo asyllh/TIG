@@ -14,14 +14,6 @@ cmake-build-debug/
 *.aux
 *.bbl
 *.bcf
-*.blg
-*.dvi
-*.log
-*.run.xml
-*.synctex.gz
-*.toc
-*.swp
-*.nav
-*.snm
+
 *.vrb
 
