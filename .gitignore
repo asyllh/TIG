@@ -1,0 +1,27 @@
+#.gitignore for TIG
+.vs/*
+Debug/*
+cmake-build-debug/
+.idea/
+*.pdf
+*.sln
+*.VC.db
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.out
+*.exe
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.dvi
+*.log
+*.run.xml
+*.synctex.gz
+*.toc
+*.swp
+*.nav
+*.snm
+*.vrb
+
