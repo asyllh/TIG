@@ -14,6 +14,6 @@ cmake-build-debug/
 *.aux
 *.bbl
 *.bcf
-
+*.txt
 *.vrb
 
